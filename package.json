@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "vitest"
+  },
+  "name": "githubaction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vitest": "0.29.2"
+  }
+}

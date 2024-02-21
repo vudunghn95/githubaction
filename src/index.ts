@@ -2,4 +2,4 @@ const sum = (a: number, b: number) => {
   return a + b;
 };
 
-sum(1, "f");
+sum(1, 2);

@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "test": "vitest"
+    "test": "vitest",
+    "build": "tsc src/index.ts"
   },
   "name": "githubaction",
   "version": "1.0.0",
@@ -9,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "typescript": "^4.9.5",
     "vitest": "0.29.2"
   }
 }
